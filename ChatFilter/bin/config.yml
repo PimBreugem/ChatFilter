@@ -1,0 +1,8 @@
+firstJoin_message: '&a<player> &7Has joined the server for the first time!'
+join_message: '&e<player> &7Has joined the server!'
+
+# Filtered words must be written in lower case
+global_filtered: ["hoer", "kut"]
+
+filter:
+  Breugem: ["mogool"]

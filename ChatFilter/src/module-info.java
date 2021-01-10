@@ -1,0 +1,3 @@
+module ChatFilter {
+	requires spigot;
+}

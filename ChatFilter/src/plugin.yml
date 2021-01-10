@@ -1,0 +1,9 @@
+name: ChatFilter
+version: V0.1
+author: Breugem
+main: me.Breugem.ChatFilter.Main
+description: Chat Filter plugin for individual filtering for chat!
+
+commands:
+  hello: 
+    description: Return Hello to player
